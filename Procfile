@@ -1,1 +1,1 @@
-worker: python run.ry
+worker: python run.py
